@@ -19,9 +19,9 @@ An introduction to optimizing machine learning models with grid search and pipel
 
 | Topic | Skills |
 | ------ | ------ |
-| [Slides](./01-slides) | - Implement `scikit-learn` pipelines to create reproducible machine learning workflows  |
-| [Grid Search and Pipelines ](./02-gridsearch-pipelines) | - Apply `GridSearchCV` to systematically search for optimal hyperparameters and use pipelines  |
-| [Practice](./03-practice) | - Evaluate and interpret grid search results to select the best model configuration  |
+| [Slides](https://github.com/ga-curriculum/ml-gridsearch-pipelines/blob/main/01-slides/ML-GridSearch-Pipelines.pdf){:target="_blank"} | - Implement `scikit-learn` pipelines to create reproducible machine learning workflows  |
+| [Grid Search and Pipelines ](https://github.com/ga-curriculum/ml-gridsearch-pipelines/tree/main/02-gridsearch-pipelines){:target="_blank"} | - Apply `GridSearchCV` to systematically search for optimal hyperparameters and use pipelines  |
+| [Practice](https://github.com/ga-curriculum/ml-gridsearch-pipelines/tree/main/03-practice){:target="_blank"} | - Evaluate and interpret grid search results to select the best model configuration  |
 
 
 ## Prerequisites
